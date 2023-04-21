@@ -23,13 +23,13 @@
 <h3>📊 Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rooparam01&theme=dark" /> <br \>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Ramawat&theme=dark" /> <br \>
    <br>
    <br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rooparam01&show_icons=true&theme=dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit-Ramawat&show_icons=true&theme=dark"/>
    <br>
    <br>
   <br>
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=rooparam01&theme=monokai&row=1&column=4">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Rohit-Ramawat&theme=monokai&row=1&column=4">
 </p>
 
