@@ -22,11 +22,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Ramawat&layout=compact&hide_border=true&theme=radical" />
+	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekta&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohit-Ramawat&&hide_progress=true&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" 			alt="Rohit-Ramawat" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=dekta&&hide_progress=true&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" 			alt="dekta" />
 
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Ramawat&layout=compact&hide_border=true&theme=radical" alt="Rohit-Ramawat" />
 </p>
@@ -45,4 +45,6 @@
 
 ## ✍️ Random Dev Quote
 <p align="center" ><img  width="47%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />    </p>
+
+
 
