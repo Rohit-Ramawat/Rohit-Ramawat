@@ -14,7 +14,7 @@
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-ramawat-b69453188/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&&logoColor=white)](mailto:ektadhawal6306@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&&logoColor=white)](mailto:rohitramawat999@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
