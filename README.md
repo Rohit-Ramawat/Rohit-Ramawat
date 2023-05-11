@@ -1,6 +1,7 @@
-# Hey all! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+<img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Rohit+Ramawat!;I'm+Aspiring+Java+Backend+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=fe428e&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Rohit+Ramawat+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Java+Backend+Developer;I+am+from+India" alt="Rohit Ramawat" width="650" height="55">
+
 
 
 <img align = "right" alt = "coding"  width = "400" src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868">
