@@ -1,12 +1,12 @@
 <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=fe428e&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Rohit+Ramawat+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Java+Backend+Developer;I+am+from+India" alt="Rohit Ramawat" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=fe428e&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I+am+Rohit+Ramawat+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Java+Backend+Developer;I+am+from+India" alt="Rohit Ramawat" width="650" height="55">
 
 
 
 <img align = "right" alt = "coding"  width = "400" src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868">
 
-<p>Highly motivated and continuously learning Java backend developer with expertise in Java, Spring, Hibernate, and SQL. My GitHub profile showcases my programming projects, where I have developed a strong understanding of software development best practices. I am always seeking to improve my skills and knowledge in these areas and am passionate about collaborative software development.</p>
+<p>Highly motivated and continuously learning Java backend developer with expertise in Java, SpringBoot, Hibernate, and SQL. My GitHub profile showcases my programming projects, where I have developed a strong understanding of software development best practices. I am always seeking to improve my skills and knowledge in these areas and am passionate about collaborative software development.</p>
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate and SQL**
 
