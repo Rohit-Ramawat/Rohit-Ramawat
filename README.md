@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate and SQL**
 
-- 👨‍💻 Want to know more about me? Checkout <a href="https://rohit-ramawat.github.io/">PortFolio</a> and [Resume](https://drive.google.com/file/d/1aAM8Y903ALBXq7B8nAjdybv5H3ov88uI/view?usp=share_link)
+- 👨‍💻 Want to know more about me? Checkout <a href="https://rohit-ramawat.github.io/">PortFolio</a> and [Resume](https://drive.google.com/file/d/1EIpZz1kRUE-KxqRDfCaU1zgsuUMdoyNy/view?usp=sharing)
 
 - 💬 Ask me about **Backend, Java, Spring, RestApi**
 
