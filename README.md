@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate and SQL**
 
-- 👨‍💻 Want to know more about me? Checkout <a href="https://rohit-ramawat.github.io/">PortFolio</a> and [Resume](https://drive.google.com/file/d/1EIpZz1kRUE-KxqRDfCaU1zgsuUMdoyNy/view?usp=sharing)
+- 👨‍💻 Want to know more about me? Checkout <a href="https://rohit-ramawat.github.io/">PortFolio</a> and [Resume](https://drive.google.com/file/d/1-GtXzXLo-Yrly9fYMO2QUvV_dHUgWTch/view?usp=sharing)
 
 - 💬 Ask me about **Backend, Java, Spring, RestApi**
 
@@ -55,7 +55,7 @@
 <div>  
 
 <a href="https://www.java.com/en/" target="_blank">
-<img style="margin: 10px" src="https://static.javatpoint.com/core/images/java-logo1.png" alt="Java" height="60" />
+<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="Java" height="60" />
 </a>  
 
 
